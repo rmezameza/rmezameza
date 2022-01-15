@@ -1,6 +1,6 @@
-# Hey Everyone
+# Hey!
 
-I'm Roberto Alfredo Meza Meza and I'm a student (BSc) in Computer Science at the
+My name is Roberto Alfredo Meza Meza and I'm a student (for BSc) in Computer Science at the
 University of Vienna.
 
 
