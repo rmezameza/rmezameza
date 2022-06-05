@@ -8,7 +8,7 @@ University of Vienna.
 ## My Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmezameza&langs_count=8&layout=compact&theme=vue-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmezameza&langs_count=12&layout=compact&theme=vue-dark" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rmezameza&show_icons=true&theme=vue-dark" />
